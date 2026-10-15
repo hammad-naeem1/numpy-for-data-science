@@ -66,5 +66,3 @@ print(my_array2[my_array2>2])
 
 
 
-
-
