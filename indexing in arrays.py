@@ -20,6 +20,8 @@ l2=[4,5,6,7,6]
 l3=[7,8,9,8,9]
 my_array2=np.array([l1,l2,l3])
 
+
+
 print(my_array2)
 
 # in 2 dimensional array we we do indexing like this :

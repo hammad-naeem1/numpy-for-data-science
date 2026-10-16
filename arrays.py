@@ -21,6 +21,8 @@ my_arr=np.array(my_lst)
 # we can see the dimension by using shape 
 # which shows the coloum and rows
 print(my_arr.shape)
+
+
 # ========================================================
 
 # we can see it by using the( type ) method 
@@ -51,18 +53,3 @@ print(my_array2.reshape(5,3))
 
 
 #  your reshaping be careful that number of elements should be  equal
-
-
-
-print(my_array2[my_array2>2])
-
-
-
-
-
-
-
-
-
-
-
